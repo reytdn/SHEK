@@ -9,6 +9,7 @@ public class BORROWTRANSACT {
         System.out.println("Book Title: " + books.gettitle());
         System.out.println("Book Borrowed Time: " + books.getborrowtime());
         System.out.println("hi");
+        System.out.println("RIO");
         
     } 
 }
